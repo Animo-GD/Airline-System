@@ -53,16 +53,16 @@
 - **How To Use The Program**
 1. As A passenger You need to make a new account by clicking signup, make sure to fill in all fields.
 2. After Making a new account go and log in, as a passenger you will be able to.
-	.. Adding and Removing Luggage 
-	.. Book Tickets And Search Flights
-	.. Check Schedule Flight 
-	.. Check the nearest flights and missed flights.
-	.. Canceling Your Ticket
-3. As An Admin, you can sign in by writing `admin` for your name, and `admin` for your password It will take you to the Manager Dashboard
-	.. Editing Flights Tickets (Add, Delete)
-	.. Check All Passenger's Reservations And You Can Cancel Any Reservation
-	.. Check All Passengers' Accounts And You Will Be Able To (Delete and Update) Any Passenger.
-	.. Also You Can Assign Any Account As An Admin By Checking The `isAdmin` Box.
+        - Adding and Removing Luggage
+   	- Book Tickets And Search Flights
+   	- Check Schedule Flight
+   	- Check the nearest flights and missed flights.
+   	- Canceling Your Ticket
+4. As An Admin, you can sign in by writing `admin` for your name, and `admin` for your password It will take you to the Manager Dashboard
+   	- Editing Flights Tickets (Add, Delete)
+   	- Check All Passenger Reservations And You Can Cancel Any Reservation
+   	- Check All Passengers' Accounts And You Will Be Able To (Delete and Update) Any Passenger.
+   	- Also You Can Assign Any Account As An Admin By Checking The `isAdmin` Box.
 =============================================================
 Project By:
 Eng/ Moaaz Anwar Mohamed Soliman
